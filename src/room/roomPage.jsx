@@ -14,7 +14,7 @@ function RoomPage() {
             sharedLinks: [
                 {
                     name: 'Copy Link',
-                    url: `http://localhost:5173/room/${roomID}`
+                    url: `wellwisevctesting.vercel.app/room/${roomID}`
                 }
             ],
             scenario: {
